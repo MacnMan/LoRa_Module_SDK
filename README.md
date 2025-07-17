@@ -17,5 +17,5 @@
 
 
 ### Diamentions
-![DIAMENTIONS](Hardware/diamentions.jpg)
+![DIAMENTIONS](images/diamentions.jpg)
 
