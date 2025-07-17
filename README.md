@@ -1,5 +1,7 @@
 ### LoRa Module SDK
 
+
+
 ### STM32WLE5 Core Specifications
 
 | Specification       | Value            |
@@ -12,4 +14,8 @@
 | RAM (DRAM)          | 64 kB            |
 | Operating Voltage   | 1.8V – 3.6V      |
 | Temperature Range   | -40°C to +80°C   |
+
+
+### Diamentions
+![Alt Text](LoRa_Module_SDK\images\diamentions.jpg)
 
