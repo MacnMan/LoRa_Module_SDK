@@ -17,5 +17,5 @@
 
 
 ### Diamentions
-![Alt Text](LoRa_Module_SDK\images\diamentions.jpg)
+![DIAMENTIONS](Hardware/diamentions.jpg)
 
