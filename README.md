@@ -22,3 +22,6 @@
 ### Pinout
 ![DIAMENTIONS](images/pinout.jpg)
 
+### Visuals
+
+![DIAMENTIONS](images/image.jpg)
