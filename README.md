@@ -19,3 +19,6 @@
 ### Diamentions
 ![DIAMENTIONS](images/diamentions.jpg)
 
+### Pinout
+![DIAMENTIONS](images/pinout.jpg)
+
