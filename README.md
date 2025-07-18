@@ -6,6 +6,7 @@
 
 | Specification       | Value            |
 |---------------------|------------------|
+| Processor           | STM32WLE5CCU6    |
 | Core                | ARM Cortex-M4    |
 | Flash Size          | 256 kB           |
 | ADC                 | 12-bit           |
